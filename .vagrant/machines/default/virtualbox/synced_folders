@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/shirotamasahiro/vagrant/centOS","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/vagrant_data":{"create":"true","guestpath":"/home/vagrant/vagrant_data","hostpath":"/Users/shirotamasahiro/work","disabled":false,"__vagrantfile":true}}}
